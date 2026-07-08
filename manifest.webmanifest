@@ -1,0 +1,9 @@
+{
+  "name": "Chérisy Anfrage-Assistent",
+  "short_name": "Chérisy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#18324a",
+  "icons": []
+}
